@@ -1,5 +1,5 @@
 # Write-It
-Sample React Native App that make use of the public handwriting [API](https://handwriting.io) to generate a custom handwritten text from input text, size, style and color of the your choice.
+Sample React Native App that make use of the public handwriting [API](https://handwriting.io) to generate a custom handwritten text from input text, size, style and color of your choice.
 
 This project is mainly based on this [demo](https://handwriting.io/demo).
 
